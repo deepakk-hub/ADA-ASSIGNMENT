@@ -114,7 +114,7 @@ ADA-MAIN/
 
 ## Author
 
-tejas raghav
+DEEPAK MAKKER
 Analysis and design of algorithms/ B.tech CSE(AI - ML)
 
 
